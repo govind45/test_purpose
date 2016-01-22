@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class FirstTest {
+public class Testing {
 
         @Test
         public void test1() {
